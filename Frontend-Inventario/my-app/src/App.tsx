@@ -1,4 +1,4 @@
-import InventoryManagement from './components/InventoryManagement'; // Ajusta la ruta según sea necesario
+import InventoryManagement from './components/InventoryManagement';  
 
 function App() {
   return (
